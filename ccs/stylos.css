@@ -1,8 +1,9 @@
 h1 { 
   margin:  10px;
+  
 }
 
-p {
+p * {
 font-size: 15px;
 margin: 10px;
 text-align: justify;
