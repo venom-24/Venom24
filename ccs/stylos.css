@@ -6,13 +6,10 @@ h2 {
 margin: 10px;
 }
 
-h3 {
-  margin: 10px;
-}
-
 p * {
 font-size: 15px;
 margin: 10px;
 text-align: justify;
 font-family: "Quicksand", Arial, Times New Roman, Helvetica, Courier New, sans-serif;
 }
+
